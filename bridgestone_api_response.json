@@ -1,0 +1,97 @@
+{
+  "status": "ok",
+  "source": "demo REST API",
+  "timestamp": "2026-04-08T14:00:00Z",
+  "data": [
+    {
+      "fecha": "2026-02-01",
+      "planta": "CR",
+      "producto": "Llanta_A",
+      "ventas": 169,
+      "inventario": 155,
+      "precio_unitario": 45,
+      "ingreso": 7605
+    },
+    {
+      "fecha": "2026-02-02",
+      "planta": "MX",
+      "producto": "Llanta_C",
+      "ventas": 140,
+      "inventario": 229,
+      "precio_unitario": 45,
+      "ingreso": 6300
+    },
+    {
+      "fecha": "2026-02-03",
+      "planta": "USA",
+      "producto": "Llanta_D",
+      "ventas": 93,
+      "inventario": 217,
+      "precio_unitario": 75,
+      "ingreso": 6975
+    },
+    {
+      "fecha": "2026-02-04",
+      "planta": "CR",
+      "producto": "Llanta_B",
+      "ventas": 156,
+      "inventario": 120,
+      "precio_unitario": 75,
+      "ingreso": 11700
+    },
+    {
+      "fecha": "2026-02-05",
+      "planta": "MX",
+      "producto": "Llanta_A",
+      "ventas": 31,
+      "inventario": 200,
+      "precio_unitario": 75,
+      "ingreso": 2325
+    },
+    {
+      "fecha": "2026-02-06",
+      "planta": "USA",
+      "producto": "Llanta_A",
+      "ventas": 129,
+      "inventario": 189,
+      "precio_unitario": 50,
+      "ingreso": 6450
+    },
+    {
+      "fecha": "2026-02-07",
+      "planta": "CR",
+      "producto": "Llanta_A",
+      "ventas": 77,
+      "inventario": 49,
+      "precio_unitario": 45,
+      "ingreso": 3465
+    },
+    {
+      "fecha": "2026-02-08",
+      "planta": "MX",
+      "producto": "Llanta_D",
+      "ventas": 57,
+      "inventario": 302,
+      "precio_unitario": 45,
+      "ingreso": 2565
+    },
+    {
+      "fecha": "2026-02-09",
+      "planta": "USA",
+      "producto": "Llanta_D",
+      "ventas": 26,
+      "inventario": 340,
+      "precio_unitario": 50,
+      "ingreso": 1300
+    },
+    {
+      "fecha": "2026-02-10",
+      "planta": "USA",
+      "producto": "Llanta_C",
+      "ventas": 22,
+      "inventario": 272,
+      "precio_unitario": 45,
+      "ingreso": 990
+    }
+  ]
+}
